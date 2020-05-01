@@ -1,0 +1,17 @@
+{
+    "name": "qiuqiu1999\/junit-laravel",
+    "description": "A simplified version of the laravel framework unit test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "XunShan",
+            "email": "244907263@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "QiuQiu1999\\JunitLaravel\\": "src"
+        }
+    }
+}
